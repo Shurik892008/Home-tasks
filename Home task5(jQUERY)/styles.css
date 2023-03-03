@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+body {
+    text-align: center;
+    font-size: 80%;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+#images {
+    width: 350px;
+    margin: 50px auto 50px auto;
+}
+
+#images a {
+    padding: 0px 10px 0px 10px;
+}
+
+#images div {
+    border: solid 3px #dedede;
+    background-color: #eeeeee;
+    margin: 20px 0 0 0;
+    padding: 10px 0 10px 0;
+   border-radius: 3px;
+}
+
+img {
+    border: solid 3px #dedede;
+}
